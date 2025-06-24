@@ -1,0 +1,97 @@
+Location,Category,Rating,Review Period,Review Year
+Location A,Front of Store,58%,Q1,2024
+Location A,Checkout,61%,Q1,2024
+Location A,Organization & Cleanliness,55%,Q1,2024
+Location A,Product Variety,71%,Q1,2024
+Location A,Product Quality,62%,Q1,2024
+Location A,Price,44%,Q1,2024
+Location A,Front of Store,91%,Q2,2024
+Location A,Checkout,77%,Q2,2024
+Location A,Organization & Cleanliness,95%,Q2,2024
+Location A,Product Variety,90%,Q2,2024
+Location A,Product Quality,55%,Q2,2024
+Location A,Price,42%,Q2,2024
+Location A,Front of Store,52%,Q3,2024
+Location A,Checkout,97%,Q3,2024
+Location A,Organization & Cleanliness,62%,Q3,2024
+Location A,Product Variety,62%,Q3,2024
+Location A,Product Quality,60%,Q3,2024
+Location A,Price,50%,Q3,2024
+Location A,Front of Store,64%,Q4,2024
+Location A,Checkout,79%,Q4,2024
+Location A,Organization & Cleanliness,65%,Q4,2024
+Location A,Product Variety,85%,Q4,2024
+Location A,Product Quality,74%,Q4,2024
+Location A,Price,75%,Q4,2024
+Location B,Front of Store,97%,Q1,2024
+Location B,Checkout,100%,Q1,2024
+Location B,Organization & Cleanliness,86%,Q1,2024
+Location B,Product Variety,50%,Q1,2024
+Location B,Product Quality,82%,Q1,2024
+Location B,Price,48%,Q1,2024
+Location B,Front of Store,100%,Q2,2024
+Location B,Checkout,53%,Q2,2024
+Location B,Organization & Cleanliness,83%,Q2,2024
+Location B,Product Variety,91%,Q2,2024
+Location B,Product Quality,72%,Q2,2024
+Location B,Price,64%,Q2,2024
+Location B,Front of Store,63%,Q3,2024
+Location B,Checkout,84%,Q3,2024
+Location B,Organization & Cleanliness,52%,Q3,2024
+Location B,Product Variety,66%,Q3,2024
+Location B,Product Quality,64%,Q3,2024
+Location B,Price,62%,Q3,2024
+Location B,Front of Store,49%,Q4,2024
+Location B,Checkout,52%,Q4,2024
+Location B,Organization & Cleanliness,100%,Q4,2024
+Location B,Product Variety,96%,Q4,2024
+Location B,Product Quality,71%,Q4,2024
+Location B,Price,52%,Q4,2024
+Location C,Front of Store,76%,Q1,2024
+Location C,Checkout,44%,Q1,2024
+Location C,Organization & Cleanliness,98%,Q1,2024
+Location C,Product Variety,45%,Q1,2024
+Location C,Product Quality,70%,Q1,2024
+Location C,Price,96%,Q1,2024
+Location C,Front of Store,51%,Q2,2024
+Location C,Checkout,69%,Q2,2024
+Location C,Organization & Cleanliness,100%,Q2,2024
+Location C,Product Variety,87%,Q2,2024
+Location C,Product Quality,84%,Q2,2024
+Location C,Price,60%,Q2,2024
+Location C,Front of Store,78%,Q3,2024
+Location C,Checkout,64%,Q3,2024
+Location C,Organization & Cleanliness,43%,Q3,2024
+Location C,Product Variety,86%,Q3,2024
+Location C,Product Quality,95%,Q3,2024
+Location C,Price,90%,Q3,2024
+Location C,Front of Store,84%,Q4,2024
+Location C,Checkout,100%,Q4,2024
+Location C,Organization & Cleanliness,59%,Q4,2024
+Location C,Product Variety,89%,Q4,2024
+Location C,Product Quality,46%,Q4,2024
+Location C,Price,55%,Q4,2024
+Location D,Front of Store,63%,Q1,2024
+Location D,Checkout,81%,Q1,2024
+Location D,Organization & Cleanliness,65%,Q1,2024
+Location D,Product Variety,77%,Q1,2024
+Location D,Product Quality,87%,Q1,2024
+Location D,Price,97%,Q1,2024
+Location D,Front of Store,93%,Q2,2024
+Location D,Checkout,85%,Q2,2024
+Location D,Organization & Cleanliness,78%,Q2,2024
+Location D,Product Variety,60%,Q2,2024
+Location D,Product Quality,51%,Q2,2024
+Location D,Price,49%,Q2,2024
+Location D,Front of Store,56%,Q3,2024
+Location D,Checkout,97%,Q3,2024
+Location D,Organization & Cleanliness,69%,Q3,2024
+Location D,Product Variety,54%,Q3,2024
+Location D,Product Quality,64%,Q3,2024
+Location D,Price,58%,Q3,2024
+Location D,Front of Store,56%,Q4,2024
+Location D,Checkout,86%,Q4,2024
+Location D,Organization & Cleanliness,90%,Q4,2024
+Location D,Product Variety,66%,Q4,2024
+Location D,Product Quality,48%,Q4,2024
+Location D,Price,71%,Q4,2024
